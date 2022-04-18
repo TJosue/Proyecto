@@ -1,0 +1,17 @@
+Plato,2000,Pasta,2
+Plato,3000,Taco,2
+Plato,4000,Lasagna,3
+Plato,500,Pizza,2
+Plato,6000,Pollo,4
+Postre,200,Creme brule,5
+Postre,1000,Napoleon,4
+Postre,700,Brownie,3
+Postre,300,Leche asada,1
+Postre,800,Merengon,2
+Bebida,1200,Coca cola,5
+Bebida,230,Jugo hit,5
+Bebida,50,Limonada,2
+Bebida,100,Cerveza,2
+Bebida,450,Colombiana,5
+Plato,15000,Crepe,1
+Plato,12,Pollo a la brasa,1
